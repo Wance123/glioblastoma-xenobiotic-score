@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+statsmodels
+lifelines
+matplotlib
+seaborn
+h5py
+requests
+python-docx

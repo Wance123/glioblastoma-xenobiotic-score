@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+node_modules/
+input/
+results/
+data/
+figures/
+*.zip
+*.gz
+*.h5
+*.h5ad
+*.mtx
+*.xlsx
+*.docx
