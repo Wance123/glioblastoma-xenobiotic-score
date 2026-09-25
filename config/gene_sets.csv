@@ -1,0 +1,579 @@
+module,gene,source
+lactate_handling,LDHA,prespecified operational marker panel; see protocol amendment
+lactate_handling,SLC16A1,prespecified operational marker panel; see protocol amendment
+lactate_handling,SLC16A3,prespecified operational marker panel; see protocol amendment
+lactate_handling,BSG,prespecified operational marker panel; see protocol amendment
+macrophage_state,CD163,prespecified operational marker panel; see protocol amendment
+macrophage_state,MRC1,prespecified operational marker panel; see protocol amendment
+macrophage_state,MSR1,prespecified operational marker panel; see protocol amendment
+macrophage_state,MARCO,prespecified operational marker panel; see protocol amendment
+macrophage_state,FOLR2,prespecified operational marker panel; see protocol amendment
+microglia_state,P2RY12,prespecified operational marker panel; see protocol amendment
+microglia_state,TMEM119,prespecified operational marker panel; see protocol amendment
+microglia_state,GPR34,prespecified operational marker panel; see protocol amendment
+microglia_state,SALL1,prespecified operational marker panel; see protocol amendment
+microglia_state,CX3CR1,prespecified operational marker panel; see protocol amendment
+myeloid_identity,LST1,prespecified operational marker panel; see protocol amendment
+myeloid_identity,AIF1,prespecified operational marker panel; see protocol amendment
+myeloid_identity,CSF1R,prespecified operational marker panel; see protocol amendment
+myeloid_identity,SPI1,prespecified operational marker panel; see protocol amendment
+myeloid_identity,ITGAM,prespecified operational marker panel; see protocol amendment
+tumor_glial_proxy,SOX2,prespecified operational marker panel; see protocol amendment
+tumor_glial_proxy,EGFR,prespecified operational marker panel; see protocol amendment
+tumor_glial_proxy,PDGFRA,prespecified operational marker panel; see protocol amendment
+tumor_glial_proxy,OLIG2,prespecified operational marker panel; see protocol amendment
+tumor_glial_proxy,NES,prespecified operational marker panel; see protocol amendment
+myelin,MBP,prespecified operational marker panel; see protocol amendment
+myelin,PLP1,prespecified operational marker panel; see protocol amendment
+myelin,MOG,prespecified operational marker panel; see protocol amendment
+myelin,MAG,prespecified operational marker panel; see protocol amendment
+myelin,MOBP,prespecified operational marker panel; see protocol amendment
+myelin,CNP,prespecified operational marker panel; see protocol amendment
+mesenchymal,CD44,prespecified operational marker panel; see protocol amendment
+mesenchymal,CHI3L1,prespecified operational marker panel; see protocol amendment
+mesenchymal,SERPINE1,prespecified operational marker panel; see protocol amendment
+mesenchymal,TIMP1,prespecified operational marker panel; see protocol amendment
+mesenchymal,VIM,prespecified operational marker panel; see protocol amendment
+mesenchymal,ANXA1,prespecified operational marker panel; see protocol amendment
+T_cells,CD3D,prespecified operational marker panel; see protocol amendment
+T_cells,CD3E,prespecified operational marker panel; see protocol amendment
+T_cells,TRAC,prespecified operational marker panel; see protocol amendment
+T_cells,CD247,prespecified operational marker panel; see protocol amendment
+B_cells,CD79A,prespecified operational marker panel; see protocol amendment
+B_cells,MS4A1,prespecified operational marker panel; see protocol amendment
+B_cells,CD79B,prespecified operational marker panel; see protocol amendment
+B_cells,CD37,prespecified operational marker panel; see protocol amendment
+endothelial,PECAM1,prespecified operational marker panel; see protocol amendment
+endothelial,VWF,prespecified operational marker panel; see protocol amendment
+endothelial,KDR,prespecified operational marker panel; see protocol amendment
+endothelial,EMCN,prespecified operational marker panel; see protocol amendment
+pericyte,RGS5,prespecified operational marker panel; see protocol amendment
+pericyte,PDGFRB,prespecified operational marker panel; see protocol amendment
+pericyte,ACTA2,prespecified operational marker panel; see protocol amendment
+pericyte,CSPG4,prespecified operational marker panel; see protocol amendment
+cytotoxic,GZMA,prespecified operational marker panel; see protocol amendment
+cytotoxic,GZMB,prespecified operational marker panel; see protocol amendment
+cytotoxic,PRF1,prespecified operational marker panel; see protocol amendment
+cytotoxic,NKG7,prespecified operational marker panel; see protocol amendment
+cytotoxic,GNLY,prespecified operational marker panel; see protocol amendment
+T_dysfunction,PDCD1,prespecified operational marker panel; see protocol amendment
+T_dysfunction,LAG3,prespecified operational marker panel; see protocol amendment
+T_dysfunction,HAVCR2,prespecified operational marker panel; see protocol amendment
+T_dysfunction,TIGIT,prespecified operational marker panel; see protocol amendment
+T_dysfunction,TOX,prespecified operational marker panel; see protocol amendment
+HCC_SLS,CFL1,prespecified operational marker panel; see protocol amendment
+HCC_SLS,FUBP1,prespecified operational marker panel; see protocol amendment
+HCC_SLS,SOD1,prespecified operational marker panel; see protocol amendment
+HCC_SLS,KHSRP,prespecified operational marker panel; see protocol amendment
+HCC_SLS,MBP,prespecified operational marker panel; see protocol amendment
+HCC_SLS,SLC2A1,prespecified operational marker panel; see protocol amendment
+hypoxia,PGK1,MSigDB hallmark v7.4
+hypoxia,PDK1,MSigDB hallmark v7.4
+hypoxia,GBE1,MSigDB hallmark v7.4
+hypoxia,PFKL,MSigDB hallmark v7.4
+hypoxia,ALDOA,MSigDB hallmark v7.4
+hypoxia,ENO2,MSigDB hallmark v7.4
+hypoxia,PGM1,MSigDB hallmark v7.4
+hypoxia,NDRG1,MSigDB hallmark v7.4
+hypoxia,HK2,MSigDB hallmark v7.4
+hypoxia,ALDOC,MSigDB hallmark v7.4
+hypoxia,GPI,MSigDB hallmark v7.4
+hypoxia,MXI1,MSigDB hallmark v7.4
+hypoxia,SLC2A1,MSigDB hallmark v7.4
+hypoxia,P4HA1,MSigDB hallmark v7.4
+hypoxia,ADM,MSigDB hallmark v7.4
+hypoxia,P4HA2,MSigDB hallmark v7.4
+hypoxia,ENO1,MSigDB hallmark v7.4
+hypoxia,PFKP,MSigDB hallmark v7.4
+hypoxia,AK4,MSigDB hallmark v7.4
+hypoxia,FAM162A,MSigDB hallmark v7.4
+hypoxia,PFKFB3,MSigDB hallmark v7.4
+hypoxia,VEGFA,MSigDB hallmark v7.4
+hypoxia,BNIP3L,MSigDB hallmark v7.4
+hypoxia,TPI1,MSigDB hallmark v7.4
+hypoxia,ERO1A,MSigDB hallmark v7.4
+hypoxia,KDM3A,MSigDB hallmark v7.4
+hypoxia,CCNG2,MSigDB hallmark v7.4
+hypoxia,GYS1,MSigDB hallmark v7.4
+hypoxia,GAPDH,MSigDB hallmark v7.4
+hypoxia,BHLHE40,MSigDB hallmark v7.4
+hypoxia,ANGPTL4,MSigDB hallmark v7.4
+hypoxia,JUN,MSigDB hallmark v7.4
+hypoxia,SERPINE1,MSigDB hallmark v7.4
+hypoxia,LOX,MSigDB hallmark v7.4
+hypoxia,GCK,MSigDB hallmark v7.4
+hypoxia,PPFIA4,MSigDB hallmark v7.4
+hypoxia,MAFF,MSigDB hallmark v7.4
+hypoxia,DDIT4,MSigDB hallmark v7.4
+hypoxia,SLC2A3,MSigDB hallmark v7.4
+hypoxia,IGFBP3,MSigDB hallmark v7.4
+hypoxia,NFIL3,MSigDB hallmark v7.4
+hypoxia,FOS,MSigDB hallmark v7.4
+hypoxia,RBPJ,MSigDB hallmark v7.4
+hypoxia,HK1,MSigDB hallmark v7.4
+hypoxia,CITED2,MSigDB hallmark v7.4
+hypoxia,ISG20,MSigDB hallmark v7.4
+hypoxia,GALK1,MSigDB hallmark v7.4
+hypoxia,WSB1,MSigDB hallmark v7.4
+hypoxia,PYGM,MSigDB hallmark v7.4
+hypoxia,STC1,MSigDB hallmark v7.4
+hypoxia,ZNF292,MSigDB hallmark v7.4
+hypoxia,BTG1,MSigDB hallmark v7.4
+hypoxia,PLIN2,MSigDB hallmark v7.4
+hypoxia,CSRP2,MSigDB hallmark v7.4
+hypoxia,VLDLR,MSigDB hallmark v7.4
+hypoxia,JMJD6,MSigDB hallmark v7.4
+hypoxia,EXT1,MSigDB hallmark v7.4
+hypoxia,F3,MSigDB hallmark v7.4
+hypoxia,PDK3,MSigDB hallmark v7.4
+hypoxia,ANKZF1,MSigDB hallmark v7.4
+hypoxia,UGP2,MSigDB hallmark v7.4
+hypoxia,ALDOB,MSigDB hallmark v7.4
+hypoxia,STC2,MSigDB hallmark v7.4
+hypoxia,ERRFI1,MSigDB hallmark v7.4
+hypoxia,ENO3,MSigDB hallmark v7.4
+hypoxia,PNRC1,MSigDB hallmark v7.4
+hypoxia,HMOX1,MSigDB hallmark v7.4
+hypoxia,PGF,MSigDB hallmark v7.4
+hypoxia,GAPDHS,MSigDB hallmark v7.4
+hypoxia,CHST2,MSigDB hallmark v7.4
+hypoxia,TMEM45A,MSigDB hallmark v7.4
+hypoxia,BCAN,MSigDB hallmark v7.4
+hypoxia,ATF3,MSigDB hallmark v7.4
+hypoxia,CAV1,MSigDB hallmark v7.4
+hypoxia,AMPD3,MSigDB hallmark v7.4
+hypoxia,GPC3,MSigDB hallmark v7.4
+hypoxia,NDST1,MSigDB hallmark v7.4
+hypoxia,IRS2,MSigDB hallmark v7.4
+hypoxia,SAP30,MSigDB hallmark v7.4
+hypoxia,GAA,MSigDB hallmark v7.4
+hypoxia,SDC4,MSigDB hallmark v7.4
+hypoxia,STBD1,MSigDB hallmark v7.4
+hypoxia,IER3,MSigDB hallmark v7.4
+hypoxia,PKLR,MSigDB hallmark v7.4
+hypoxia,IGFBP1,MSigDB hallmark v7.4
+hypoxia,PLAUR,MSigDB hallmark v7.4
+hypoxia,CAVIN3,MSigDB hallmark v7.4
+hypoxia,CCN5,MSigDB hallmark v7.4
+hypoxia,LARGE1,MSigDB hallmark v7.4
+hypoxia,NOCT,MSigDB hallmark v7.4
+hypoxia,S100A4,MSigDB hallmark v7.4
+hypoxia,RRAGD,MSigDB hallmark v7.4
+hypoxia,ZFP36,MSigDB hallmark v7.4
+hypoxia,EGFR,MSigDB hallmark v7.4
+hypoxia,EDN2,MSigDB hallmark v7.4
+hypoxia,IDS,MSigDB hallmark v7.4
+hypoxia,CDKN1A,MSigDB hallmark v7.4
+hypoxia,RORA,MSigDB hallmark v7.4
+hypoxia,DUSP1,MSigDB hallmark v7.4
+hypoxia,MIF,MSigDB hallmark v7.4
+hypoxia,PPP1R3C,MSigDB hallmark v7.4
+hypoxia,DPYSL4,MSigDB hallmark v7.4
+hypoxia,KDELR3,MSigDB hallmark v7.4
+hypoxia,DTNA,MSigDB hallmark v7.4
+hypoxia,ADORA2B,MSigDB hallmark v7.4
+hypoxia,HS3ST1,MSigDB hallmark v7.4
+hypoxia,CAVIN1,MSigDB hallmark v7.4
+hypoxia,NR3C1,MSigDB hallmark v7.4
+hypoxia,KLF6,MSigDB hallmark v7.4
+hypoxia,GPC4,MSigDB hallmark v7.4
+hypoxia,CCN1,MSigDB hallmark v7.4
+hypoxia,TNFAIP3,MSigDB hallmark v7.4
+hypoxia,CA12,MSigDB hallmark v7.4
+hypoxia,HEXA,MSigDB hallmark v7.4
+hypoxia,BGN,MSigDB hallmark v7.4
+hypoxia,PPP1R15A,MSigDB hallmark v7.4
+hypoxia,PGM2,MSigDB hallmark v7.4
+hypoxia,PIM1,MSigDB hallmark v7.4
+hypoxia,PRDX5,MSigDB hallmark v7.4
+hypoxia,NAGK,MSigDB hallmark v7.4
+hypoxia,CDKN1B,MSigDB hallmark v7.4
+hypoxia,BRS3,MSigDB hallmark v7.4
+hypoxia,TKTL1,MSigDB hallmark v7.4
+hypoxia,MT1E,MSigDB hallmark v7.4
+hypoxia,ATP7A,MSigDB hallmark v7.4
+hypoxia,MT2A,MSigDB hallmark v7.4
+hypoxia,SDC3,MSigDB hallmark v7.4
+hypoxia,TIPARP,MSigDB hallmark v7.4
+hypoxia,PKP1,MSigDB hallmark v7.4
+hypoxia,ANXA2,MSigDB hallmark v7.4
+hypoxia,PGAM2,MSigDB hallmark v7.4
+hypoxia,DDIT3,MSigDB hallmark v7.4
+hypoxia,PRKCA,MSigDB hallmark v7.4
+hypoxia,SLC37A4,MSigDB hallmark v7.4
+hypoxia,CXCR4,MSigDB hallmark v7.4
+hypoxia,EFNA3,MSigDB hallmark v7.4
+hypoxia,CP,MSigDB hallmark v7.4
+hypoxia,KLF7,MSigDB hallmark v7.4
+hypoxia,CCN2,MSigDB hallmark v7.4
+hypoxia,CHST3,MSigDB hallmark v7.4
+hypoxia,TPD52,MSigDB hallmark v7.4
+hypoxia,LXN,MSigDB hallmark v7.4
+hypoxia,B4GALNT2,MSigDB hallmark v7.4
+hypoxia,PPARGC1A,MSigDB hallmark v7.4
+hypoxia,BCL2,MSigDB hallmark v7.4
+hypoxia,GCNT2,MSigDB hallmark v7.4
+hypoxia,HAS1,MSigDB hallmark v7.4
+hypoxia,KLHL24,MSigDB hallmark v7.4
+hypoxia,SCARB1,MSigDB hallmark v7.4
+hypoxia,SLC25A1,MSigDB hallmark v7.4
+hypoxia,SDC2,MSigDB hallmark v7.4
+hypoxia,CASP6,MSigDB hallmark v7.4
+hypoxia,VHL,MSigDB hallmark v7.4
+hypoxia,FOXO3,MSigDB hallmark v7.4
+hypoxia,PDGFB,MSigDB hallmark v7.4
+hypoxia,B3GALT6,MSigDB hallmark v7.4
+hypoxia,SLC2A5,MSigDB hallmark v7.4
+hypoxia,SRPX,MSigDB hallmark v7.4
+hypoxia,EFNA1,MSigDB hallmark v7.4
+hypoxia,GLRX,MSigDB hallmark v7.4
+hypoxia,ACKR3,MSigDB hallmark v7.4
+hypoxia,PAM,MSigDB hallmark v7.4
+hypoxia,TGFBI,MSigDB hallmark v7.4
+hypoxia,DCN,MSigDB hallmark v7.4
+hypoxia,SIAH2,MSigDB hallmark v7.4
+hypoxia,PLAC8,MSigDB hallmark v7.4
+hypoxia,FBP1,MSigDB hallmark v7.4
+hypoxia,TPST2,MSigDB hallmark v7.4
+hypoxia,PHKG1,MSigDB hallmark v7.4
+hypoxia,MYH9,MSigDB hallmark v7.4
+hypoxia,CDKN1C,MSigDB hallmark v7.4
+hypoxia,GRHPR,MSigDB hallmark v7.4
+hypoxia,PCK1,MSigDB hallmark v7.4
+hypoxia,INHA,MSigDB hallmark v7.4
+hypoxia,HSPA5,MSigDB hallmark v7.4
+hypoxia,NDST2,MSigDB hallmark v7.4
+hypoxia,NEDD4L,MSigDB hallmark v7.4
+hypoxia,TPBG,MSigDB hallmark v7.4
+hypoxia,XPNPEP1,MSigDB hallmark v7.4
+hypoxia,IL6,MSigDB hallmark v7.4
+hypoxia,SLC6A6,MSigDB hallmark v7.4
+hypoxia,MAP3K1,MSigDB hallmark v7.4
+hypoxia,LDHC,MSigDB hallmark v7.4
+hypoxia,AKAP12,MSigDB hallmark v7.4
+hypoxia,TES,MSigDB hallmark v7.4
+hypoxia,KIF5A,MSigDB hallmark v7.4
+hypoxia,LALBA,MSigDB hallmark v7.4
+hypoxia,COL5A1,MSigDB hallmark v7.4
+hypoxia,GPC1,MSigDB hallmark v7.4
+hypoxia,HDLBP,MSigDB hallmark v7.4
+hypoxia,ILVBL,MSigDB hallmark v7.4
+hypoxia,NCAN,MSigDB hallmark v7.4
+hypoxia,TGM2,MSigDB hallmark v7.4
+hypoxia,ETS1,MSigDB hallmark v7.4
+hypoxia,HOXB9,MSigDB hallmark v7.4
+hypoxia,SELENBP1,MSigDB hallmark v7.4
+hypoxia,FOSL2,MSigDB hallmark v7.4
+hypoxia,SULT2B1,MSigDB hallmark v7.4
+hypoxia,TGFB3,MSigDB hallmark v7.4
+glycolysis,PGK1,MSigDB hallmark v7.4
+glycolysis,ALDOA,MSigDB hallmark v7.4
+glycolysis,ENO1,MSigDB hallmark v7.4
+glycolysis,TPI1,MSigDB hallmark v7.4
+glycolysis,PFKP,MSigDB hallmark v7.4
+glycolysis,ERO1A,MSigDB hallmark v7.4
+glycolysis,ALDOB,MSigDB hallmark v7.4
+glycolysis,VEGFA,MSigDB hallmark v7.4
+glycolysis,MXI1,MSigDB hallmark v7.4
+glycolysis,PKM,MSigDB hallmark v7.4
+glycolysis,HK2,MSigDB hallmark v7.4
+glycolysis,EXT1,MSigDB hallmark v7.4
+glycolysis,SLC25A10,MSigDB hallmark v7.4
+glycolysis,GUSB,MSigDB hallmark v7.4
+glycolysis,PFKFB1,MSigDB hallmark v7.4
+glycolysis,PGAM1,MSigDB hallmark v7.4
+glycolysis,PYGB,MSigDB hallmark v7.4
+glycolysis,AK4,MSigDB hallmark v7.4
+glycolysis,P4HA1,MSigDB hallmark v7.4
+glycolysis,PMM2,MSigDB hallmark v7.4
+glycolysis,FAM162A,MSigDB hallmark v7.4
+glycolysis,SDC1,MSigDB hallmark v7.4
+glycolysis,EGLN3,MSigDB hallmark v7.4
+glycolysis,PC,MSigDB hallmark v7.4
+glycolysis,B4GALT7,MSigDB hallmark v7.4
+glycolysis,FBP2,MSigDB hallmark v7.4
+glycolysis,IGFBP3,MSigDB hallmark v7.4
+glycolysis,CHPF,MSigDB hallmark v7.4
+glycolysis,B3GAT3,MSigDB hallmark v7.4
+glycolysis,CHST12,MSigDB hallmark v7.4
+glycolysis,HS2ST1,MSigDB hallmark v7.4
+glycolysis,MPI,MSigDB hallmark v7.4
+glycolysis,GNPDA1,MSigDB hallmark v7.4
+glycolysis,AKR1A1,MSigDB hallmark v7.4
+glycolysis,PPFIA4,MSigDB hallmark v7.4
+glycolysis,B3GAT1,MSigDB hallmark v7.4
+glycolysis,CHPF2,MSigDB hallmark v7.4
+glycolysis,G6PD,MSigDB hallmark v7.4
+glycolysis,MDH2,MSigDB hallmark v7.4
+glycolysis,CHST6,MSigDB hallmark v7.4
+glycolysis,PGLS,MSigDB hallmark v7.4
+glycolysis,PGAM2,MSigDB hallmark v7.4
+glycolysis,CHST1,MSigDB hallmark v7.4
+glycolysis,GPC1,MSigDB hallmark v7.4
+glycolysis,GFUS,MSigDB hallmark v7.4
+glycolysis,ALG1,MSigDB hallmark v7.4
+glycolysis,GFPT1,MSigDB hallmark v7.4
+glycolysis,PRPS1,MSigDB hallmark v7.4
+glycolysis,GOT1,MSigDB hallmark v7.4
+glycolysis,MDH1,MSigDB hallmark v7.4
+glycolysis,SLC35A3,MSigDB hallmark v7.4
+glycolysis,GALK1,MSigDB hallmark v7.4
+glycolysis,EGFR,MSigDB hallmark v7.4
+glycolysis,ANGPTL4,MSigDB hallmark v7.4
+glycolysis,CITED2,MSigDB hallmark v7.4
+glycolysis,PLOD2,MSigDB hallmark v7.4
+glycolysis,QSOX1,MSigDB hallmark v7.4
+glycolysis,ME2,MSigDB hallmark v7.4
+glycolysis,SPAG4,MSigDB hallmark v7.4
+glycolysis,P4HA2,MSigDB hallmark v7.4
+glycolysis,GAPDHS,MSigDB hallmark v7.4
+glycolysis,ENO2,MSigDB hallmark v7.4
+glycolysis,GOT2,MSigDB hallmark v7.4
+glycolysis,EXT2,MSigDB hallmark v7.4
+glycolysis,SLC25A13,MSigDB hallmark v7.4
+glycolysis,HMMR,MSigDB hallmark v7.4
+glycolysis,PDK3,MSigDB hallmark v7.4
+glycolysis,CXCR4,MSigDB hallmark v7.4
+glycolysis,GPC4,MSigDB hallmark v7.4
+glycolysis,ECD,MSigDB hallmark v7.4
+glycolysis,GNE,MSigDB hallmark v7.4
+glycolysis,B4GALT2,MSigDB hallmark v7.4
+glycolysis,FUT8,MSigDB hallmark v7.4
+glycolysis,MIOX,MSigDB hallmark v7.4
+glycolysis,VCAN,MSigDB hallmark v7.4
+glycolysis,GPC3,MSigDB hallmark v7.4
+glycolysis,B3GALT6,MSigDB hallmark v7.4
+glycolysis,HSPA5,MSigDB hallmark v7.4
+glycolysis,ME1,MSigDB hallmark v7.4
+glycolysis,ADORA2B,MSigDB hallmark v7.4
+glycolysis,UGP2,MSigDB hallmark v7.4
+glycolysis,MIF,MSigDB hallmark v7.4
+glycolysis,NANP,MSigDB hallmark v7.4
+glycolysis,ZNF292,MSigDB hallmark v7.4
+glycolysis,STC2,MSigDB hallmark v7.4
+glycolysis,TPST1,MSigDB hallmark v7.4
+glycolysis,PGM2,MSigDB hallmark v7.4
+glycolysis,GYS1,MSigDB hallmark v7.4
+glycolysis,TKTL1,MSigDB hallmark v7.4
+glycolysis,TGFA,MSigDB hallmark v7.4
+glycolysis,CHST2,MSigDB hallmark v7.4
+glycolysis,PHKA2,MSigDB hallmark v7.4
+glycolysis,STMN1,MSigDB hallmark v7.4
+glycolysis,GALE,MSigDB hallmark v7.4
+glycolysis,MET,MSigDB hallmark v7.4
+glycolysis,LCT,MSigDB hallmark v7.4
+glycolysis,IRS2,MSigDB hallmark v7.4
+glycolysis,POLR3K,MSigDB hallmark v7.4
+glycolysis,B4GALT1,MSigDB hallmark v7.4
+glycolysis,EFNA3,MSigDB hallmark v7.4
+glycolysis,LHX9,MSigDB hallmark v7.4
+glycolysis,KDELR3,MSigDB hallmark v7.4
+glycolysis,TALDO1,MSigDB hallmark v7.4
+glycolysis,DPYSL4,MSigDB hallmark v7.4
+glycolysis,VLDLR,MSigDB hallmark v7.4
+glycolysis,CD44,MSigDB hallmark v7.4
+glycolysis,AGL,MSigDB hallmark v7.4
+glycolysis,SOX9,MSigDB hallmark v7.4
+glycolysis,DDIT4,MSigDB hallmark v7.4
+glycolysis,IDUA,MSigDB hallmark v7.4
+glycolysis,CASP6,MSigDB hallmark v7.4
+glycolysis,GLCE,MSigDB hallmark v7.4
+glycolysis,COPB2,MSigDB hallmark v7.4
+glycolysis,DSC2,MSigDB hallmark v7.4
+glycolysis,HS6ST2,MSigDB hallmark v7.4
+glycolysis,CDK1,MSigDB hallmark v7.4
+glycolysis,PLOD1,MSigDB hallmark v7.4
+glycolysis,SDC2,MSigDB hallmark v7.4
+glycolysis,GMPPB,MSigDB hallmark v7.4
+glycolysis,PAXIP1,MSigDB hallmark v7.4
+glycolysis,NSDHL,MSigDB hallmark v7.4
+glycolysis,RARS1,MSigDB hallmark v7.4
+glycolysis,GLRX,MSigDB hallmark v7.4
+glycolysis,SRD5A3,MSigDB hallmark v7.4
+glycolysis,SDC3,MSigDB hallmark v7.4
+glycolysis,HDLBP,MSigDB hallmark v7.4
+glycolysis,COL5A1,MSigDB hallmark v7.4
+glycolysis,CLDN9,MSigDB hallmark v7.4
+glycolysis,TFF3,MSigDB hallmark v7.4
+glycolysis,STC1,MSigDB hallmark v7.4
+glycolysis,KIF20A,MSigDB hallmark v7.4
+glycolysis,GYS2,MSigDB hallmark v7.4
+glycolysis,SLC37A4,MSigDB hallmark v7.4
+glycolysis,LHPP,MSigDB hallmark v7.4
+glycolysis,SDHC,MSigDB hallmark v7.4
+glycolysis,NASP,MSigDB hallmark v7.4
+glycolysis,AURKA,MSigDB hallmark v7.4
+glycolysis,B3GNT3,MSigDB hallmark v7.4
+glycolysis,ISG20,MSigDB hallmark v7.4
+glycolysis,LDHC,MSigDB hallmark v7.4
+glycolysis,ARPP19,MSigDB hallmark v7.4
+glycolysis,CENPA,MSigDB hallmark v7.4
+glycolysis,HOMER1,MSigDB hallmark v7.4
+glycolysis,BIK,MSigDB hallmark v7.4
+glycolysis,CYB5A,MSigDB hallmark v7.4
+glycolysis,HAX1,MSigDB hallmark v7.4
+glycolysis,COG2,MSigDB hallmark v7.4
+glycolysis,IL13RA1,MSigDB hallmark v7.4
+glycolysis,NOL3,MSigDB hallmark v7.4
+glycolysis,CLDN3,MSigDB hallmark v7.4
+glycolysis,AGRN,MSigDB hallmark v7.4
+glycolysis,CLN6,MSigDB hallmark v7.4
+glycolysis,TXN,MSigDB hallmark v7.4
+glycolysis,PAM,MSigDB hallmark v7.4
+glycolysis,CAPN5,MSigDB hallmark v7.4
+glycolysis,PKP2,MSigDB hallmark v7.4
+glycolysis,ABCB6,MSigDB hallmark v7.4
+glycolysis,DCN,MSigDB hallmark v7.4
+glycolysis,GMPPA,MSigDB hallmark v7.4
+glycolysis,BPNT1,MSigDB hallmark v7.4
+glycolysis,ANG,MSigDB hallmark v7.4
+glycolysis,GPR87,MSigDB hallmark v7.4
+glycolysis,GAL3ST1,MSigDB hallmark v7.4
+glycolysis,ALDH7A1,MSigDB hallmark v7.4
+glycolysis,NT5E,MSigDB hallmark v7.4
+glycolysis,IDH1,MSigDB hallmark v7.4
+glycolysis,PYGL,MSigDB hallmark v7.4
+glycolysis,NDUFV3,MSigDB hallmark v7.4
+glycolysis,NDST3,MSigDB hallmark v7.4
+glycolysis,PPP2CB,MSigDB hallmark v7.4
+glycolysis,PSMC4,MSigDB hallmark v7.4
+glycolysis,TPBG,MSigDB hallmark v7.4
+glycolysis,TGFBI,MSigDB hallmark v7.4
+glycolysis,GALK2,MSigDB hallmark v7.4
+glycolysis,CTH,MSigDB hallmark v7.4
+glycolysis,KIF2A,MSigDB hallmark v7.4
+glycolysis,CACNA1H,MSigDB hallmark v7.4
+glycolysis,ANKZF1,MSigDB hallmark v7.4
+glycolysis,SAP30,MSigDB hallmark v7.4
+glycolysis,RBCK1,MSigDB hallmark v7.4
+glycolysis,ELF3,MSigDB hallmark v7.4
+glycolysis,RPE,MSigDB hallmark v7.4
+glycolysis,B4GALT4,MSigDB hallmark v7.4
+glycolysis,DEPDC1,MSigDB hallmark v7.4
+glycolysis,RRAGD,MSigDB hallmark v7.4
+glycolysis,IER3,MSigDB hallmark v7.4
+glycolysis,ALDH9A1,MSigDB hallmark v7.4
+glycolysis,DLD,MSigDB hallmark v7.4
+glycolysis,MERTK,MSigDB hallmark v7.4
+glycolysis,GCLC,MSigDB hallmark v7.4
+glycolysis,FKBP4,MSigDB hallmark v7.4
+glycolysis,SOD1,MSigDB hallmark v7.4
+glycolysis,MED24,MSigDB hallmark v7.4
+glycolysis,AK3,MSigDB hallmark v7.4
+glycolysis,XYLT2,MSigDB hallmark v7.4
+glycolysis,ARTN,MSigDB hallmark v7.4
+glycolysis,PPIA,MSigDB hallmark v7.4
+glycolysis,CHST4,MSigDB hallmark v7.4
+UPR,ATF4,MSigDB hallmark v7.4
+UPR,HERPUD1,MSigDB hallmark v7.4
+UPR,PARN,MSigDB hallmark v7.4
+UPR,EXOSC4,MSigDB hallmark v7.4
+UPR,HSP90B1,MSigDB hallmark v7.4
+UPR,XBP1,MSigDB hallmark v7.4
+UPR,EXOSC9,MSigDB hallmark v7.4
+UPR,HSPA5,MSigDB hallmark v7.4
+UPR,ATF3,MSigDB hallmark v7.4
+UPR,EXOSC1,MSigDB hallmark v7.4
+UPR,EXOSC5,MSigDB hallmark v7.4
+UPR,ASNS,MSigDB hallmark v7.4
+UPR,ARFGAP1,MSigDB hallmark v7.4
+UPR,WFS1,MSigDB hallmark v7.4
+UPR,SRPRB,MSigDB hallmark v7.4
+UPR,DNAJB9,MSigDB hallmark v7.4
+UPR,TSPYL2,MSigDB hallmark v7.4
+UPR,NFYA,MSigDB hallmark v7.4
+UPR,CALR,MSigDB hallmark v7.4
+UPR,KHSRP,MSigDB hallmark v7.4
+UPR,DNAJC3,MSigDB hallmark v7.4
+UPR,EXOSC2,MSigDB hallmark v7.4
+UPR,NOP14,MSigDB hallmark v7.4
+UPR,ATF6,MSigDB hallmark v7.4
+UPR,HYOU1,MSigDB hallmark v7.4
+UPR,RRP9,MSigDB hallmark v7.4
+UPR,NOP56,MSigDB hallmark v7.4
+UPR,CXXC1,MSigDB hallmark v7.4
+UPR,IGFBP1,MSigDB hallmark v7.4
+UPR,CNOT4,MSigDB hallmark v7.4
+UPR,DCP2,MSigDB hallmark v7.4
+UPR,PDIA6,MSigDB hallmark v7.4
+UPR,ATP6V0D1,MSigDB hallmark v7.4
+UPR,PREB,MSigDB hallmark v7.4
+UPR,SEC31A,MSigDB hallmark v7.4
+UPR,GOSR2,MSigDB hallmark v7.4
+UPR,SERP1,MSigDB hallmark v7.4
+UPR,NFYB,MSigDB hallmark v7.4
+UPR,NHP2,MSigDB hallmark v7.4
+UPR,DCTN1,MSigDB hallmark v7.4
+UPR,SLC7A5,MSigDB hallmark v7.4
+UPR,SSR1,MSigDB hallmark v7.4
+UPR,EDEM1,MSigDB hallmark v7.4
+UPR,EDC4,MSigDB hallmark v7.4
+UPR,EIF2AK3,MSigDB hallmark v7.4
+UPR,MTHFD2,MSigDB hallmark v7.4
+UPR,SRPRA,MSigDB hallmark v7.4
+UPR,NOLC1,MSigDB hallmark v7.4
+UPR,ERN1,MSigDB hallmark v7.4
+UPR,FKBP14,MSigDB hallmark v7.4
+UPR,ZBTB17,MSigDB hallmark v7.4
+UPR,WIPI1,MSigDB hallmark v7.4
+UPR,YIF1A,MSigDB hallmark v7.4
+UPR,CCL2,MSigDB hallmark v7.4
+UPR,DKC1,MSigDB hallmark v7.4
+UPR,EIF4EBP1,MSigDB hallmark v7.4
+UPR,EIF4A1,MSigDB hallmark v7.4
+UPR,EIF2S1,MSigDB hallmark v7.4
+UPR,TATDN2,MSigDB hallmark v7.4
+UPR,XPOT,MSigDB hallmark v7.4
+UPR,LSM4,MSigDB hallmark v7.4
+UPR,CHAC1,MSigDB hallmark v7.4
+UPR,STC2,MSigDB hallmark v7.4
+UPR,PDIA5,MSigDB hallmark v7.4
+UPR,NABP1,MSigDB hallmark v7.4
+UPR,LSM1,MSigDB hallmark v7.4
+UPR,SDAD1,MSigDB hallmark v7.4
+UPR,EIF4A2,MSigDB hallmark v7.4
+UPR,EIF4E,MSigDB hallmark v7.4
+UPR,IARS1,MSigDB hallmark v7.4
+UPR,DDX10,MSigDB hallmark v7.4
+UPR,GEMIN4,MSigDB hallmark v7.4
+UPR,TARS1,MSigDB hallmark v7.4
+UPR,ALDH18A1,MSigDB hallmark v7.4
+UPR,DDIT4,MSigDB hallmark v7.4
+UPR,HSPA9,MSigDB hallmark v7.4
+UPR,SEC11A,MSigDB hallmark v7.4
+UPR,EIF4A3,MSigDB hallmark v7.4
+UPR,POP4,MSigDB hallmark v7.4
+UPR,ERO1A,MSigDB hallmark v7.4
+UPR,CEBPG,MSigDB hallmark v7.4
+UPR,BAG3,MSigDB hallmark v7.4
+UPR,KDELR3,MSigDB hallmark v7.4
+UPR,CEBPB,MSigDB hallmark v7.4
+UPR,CNOT2,MSigDB hallmark v7.4
+UPR,SHC1,MSigDB hallmark v7.4
+UPR,SPCS3,MSigDB hallmark v7.4
+UPR,H2AX,MSigDB hallmark v7.4
+UPR,SLC1A4,MSigDB hallmark v7.4
+UPR,RPS14,MSigDB hallmark v7.4
+UPR,NPM1,MSigDB hallmark v7.4
+UPR,CNOT6,MSigDB hallmark v7.4
+UPR,CKS1B,MSigDB hallmark v7.4
+UPR,PSAT1,MSigDB hallmark v7.4
+UPR,EIF4G1,MSigDB hallmark v7.4
+UPR,YWHAZ,MSigDB hallmark v7.4
+UPR,SLC30A5,MSigDB hallmark v7.4
+UPR,MTREX,MSigDB hallmark v7.4
+UPR,KIF5B,MSigDB hallmark v7.4
+UPR,DCP1A,MSigDB hallmark v7.4
+UPR,IFIT1,MSigDB hallmark v7.4
+UPR,IMP3,MSigDB hallmark v7.4
+UPR,SPCS1,MSigDB hallmark v7.4
+UPR,DNAJA4,MSigDB hallmark v7.4
+UPR,VEGFA,MSigDB hallmark v7.4
+UPR,TTC37,MSigDB hallmark v7.4
+UPR,TUBB2A,MSigDB hallmark v7.4
+UPR,FUS,MSigDB hallmark v7.4
+UPR,EXOSC10,MSigDB hallmark v7.4
+UPR,EEF2,MSigDB hallmark v7.4
+UPR,EXOC2,MSigDB hallmark v7.4
+UPR,PAIP1,MSigDB hallmark v7.4
+UPR,BANF1,MSigDB hallmark v7.4
